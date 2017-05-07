@@ -161,7 +161,7 @@
 	<para>The Unix filesystem structure groups files according to 
 	purpose, i.e., all commands are in one place, all data files in
 	another, documentation in a third, and so on.  An alternative would
-	be to group files files according to the program they belong to,
+	be to group files according to the program they belong to,
 	i.e., all Emacs files would be in one directory, all TeX in another,
 	and so on.  The problem with the latter approach is that it makes it
 	difficult to share files (the program directory often contains both
